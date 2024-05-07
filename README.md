@@ -1,5 +1,5 @@
 # Ex.07 Software Product Company Website
-## Date:
+## Date:05.05.24
 
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
@@ -237,9 +237,8 @@ home.html
   </body>
 </html>
 
-```
-```
 product.html
+
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -471,8 +470,6 @@ product.html
   </body>
 </html>
 
-```
-```
 council.html
 
 <html>
@@ -666,9 +663,6 @@ council.html
   </body>
 </html>
 
-```
-
-```
 contact.us.html
 
 <html>
@@ -915,12 +909,12 @@ contact.us.html
   </body>
 </html>
 
+
+```
 ## OUTPUT:
-
-c:\Users\admin\Pictures\Screenshots\Screenshot 2024-05-08 003142.png
-c:\Users\admin\Pictures\Screenshots\Screenshot 2024-05-08 003156.png
-c:\Users\admin\Pictures\Screenshots\Screenshot 2024-05-08 004252.png
-c:\Users\admin\Pictures\Screenshots\Screenshot 2024-05-08 004315.png
-
+![alt text](<Screenshot 2024-05-08 003142.png>)
+![alt text](<Screenshot 2024-05-08 003156.png>)
+![alt text](<Screenshot 2024-05-08 004252.png>)
+![alt text](<Screenshot 2024-05-08 004315.png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
